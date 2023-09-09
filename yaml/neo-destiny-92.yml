@@ -1,0 +1,67 @@
+---
+id: neo4-92
+name: Broken Ground Gym
+supertype: Trainer
+subtypes:
+- Stadium
+rules:
+- This card stays in play when you play it. Discard this card if another Stadium card
+  comes into play.
+- Each player pays Colorless more to retreat a Baby Pokémon or Basic Pokémon.
+set:
+  id: neo4
+  name: Neo Destiny
+  series: Neo
+  printedTotal: 105
+  total: 113
+  legalities:
+    unlimited: Legal
+  ptcgoCode: N4
+  releaseDate: 2002/02/28
+  updatedAt: 2020/09/25 10:09:00
+  images:
+    symbol: https://images.pokemontcg.io/neo4/symbol.png
+    logo: https://images.pokemontcg.io/neo4/logo.png
+number: '92'
+artist: Tomokazu Komiya
+rarity: Rare
+legalities:
+  unlimited: Legal
+images:
+  small: https://images.pokemontcg.io/neo4/92.png
+  large: https://images.pokemontcg.io/neo4/92_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/neo4-92
+  updatedAt: 2023/09/09
+  prices:
+    1stEdition:
+      low: 6.99
+      mid: 9.99
+      high: 17.0
+      market: 10.22
+      directLow: 
+    unlimited:
+      low: 4.81
+      mid: 6.35
+      high: 9.98
+      market: 6.15
+      directLow: 7.11
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/neo4-92
+  updatedAt: 2023/09/09
+  prices:
+    averageSellPrice: 9.9
+    lowPrice: 1.49
+    trendPrice: 8.32
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.0
+    reverseHoloLow: 0.0
+    reverseHoloTrend: 3.0
+    lowPriceExPlus: 2.0
+    avg1: 2.99
+    avg7: 9.9
+    avg30: 6.91
+    reverseHoloAvg1: 3.0
+    reverseHoloAvg7: 3.0
+    reverseHoloAvg30: 3.0

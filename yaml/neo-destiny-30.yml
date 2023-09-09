@@ -1,0 +1,92 @@
+---
+id: neo4-30
+name: Unown [X]
+supertype: Pokémon
+subtypes:
+- Basic
+level: '22'
+hp: '50'
+types:
+- Psychic
+rules:
+- You may have up to 4 Basic Pokémon cards in your deck with Unown in their names.
+abilities:
+- name: "[XXXXX]"
+  text: Whenever 1 of your Pokémon with Unown in its name uses its Hidden Power attack,
+    flip a coin until you get tails. That attack does 10 more damage for each heads.
+    If you have more than 1 Unown [X] in play, use only 1 [XXXXX] each turn.
+  type: Pokémon Power
+attacks:
+- name: Hidden Power
+  cost:
+  - Psychic
+  convertedEnergyCost: 1
+  damage: '10'
+  text: ''
+weaknesses:
+- type: Psychic
+  value: "×2"
+retreatCost:
+- Colorless
+convertedRetreatCost: 1
+set:
+  id: neo4
+  name: Neo Destiny
+  series: Neo
+  printedTotal: 105
+  total: 113
+  legalities:
+    unlimited: Legal
+  ptcgoCode: N4
+  releaseDate: 2002/02/28
+  updatedAt: 2020/09/25 10:09:00
+  images:
+    symbol: https://images.pokemontcg.io/neo4/symbol.png
+    logo: https://images.pokemontcg.io/neo4/logo.png
+number: '30'
+artist: CR CG gangs
+rarity: Rare
+flavorText: It is believed that the variety of types of this Pokémon were created
+  by evolutionary adaptation, as each possesses a different ability.
+nationalPokedexNumbers:
+- 201
+legalities:
+  unlimited: Legal
+images:
+  small: https://images.pokemontcg.io/neo4/30.png
+  large: https://images.pokemontcg.io/neo4/30_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/neo4-30
+  updatedAt: 2023/09/09
+  prices:
+    1stEdition:
+      low: 12.95
+      mid: 15.89
+      high: 66.49
+      market: 16.34
+      directLow: 
+    unlimited:
+      low: 11.0
+      mid: 14.62
+      high: 37.85
+      market: 15.19
+      directLow: 
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/neo4-30
+  updatedAt: 2023/09/09
+  prices:
+    averageSellPrice: 8.63
+    lowPrice: 1.0
+    trendPrice: 8.47
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.0
+    reverseHoloLow: 0.0
+    reverseHoloTrend: 3.0
+    lowPriceExPlus: 7.5
+    avg1: 11.95
+    avg7: 9.24
+    avg30: 8.87
+    reverseHoloAvg1: 3.0
+    reverseHoloAvg7: 3.0
+    reverseHoloAvg30: 3.0
